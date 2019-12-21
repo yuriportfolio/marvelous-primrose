@@ -3,7 +3,7 @@
   "palette": "green",
   "header": {
     "title": "Azimuth",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/logo1.png",
     "has_nav": true,
     "menu": {
       "actions": [
@@ -23,8 +23,8 @@
     "subscribe_content": "Stay up to date with our latest developments.",
     "has_subscribe": true,
     "social_title": "Community",
-    "tagline": "SaaS theme by Stackbit",
-    "logo_img": "images/logo_alt.png",
+    "tagline": "Frent",
+    "logo_img": "/images/logo1.png",
     "has_social": true,
     "content": "&copy; Frent. All rights reserved.",
     "links": [],
