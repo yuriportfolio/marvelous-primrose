@@ -1,1 +1,16 @@
-{}
+{
+  "secondary": [
+    {
+      "identifier": "econom",
+      "title": "Эконом",
+      "url": "/categories/econom"
+    }
+  ],
+  "main": [
+    {
+      "identifier": "Categories",
+      "title": "Категории машин",
+      "url": "/blog"
+    }
+  ]
+}
