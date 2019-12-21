@@ -1,8 +1,13 @@
 ---
-title: Blog
+title: Автопарк
 menus:
+  main:
+    identifier: cars
+    title: cars
+    weight: 1
   secondary:
-    title: Blog
+    title: Автопарк
     weight: 2
 template: blog
 ---
+
