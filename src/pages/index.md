@@ -10,6 +10,17 @@ sections:
     title: Прокат машин
     type: section_hero
   - bg: gray
+    section_id: recent-posts
+    title: Новые машины
+    type: section_posts
+  - actions:
+      - label: Get Started
+        url: /signup
+    section_id: call-to-action
+    subtitle: This is an optional description for the call to action block.
+    title: This Is Call To Action Block!
+    type: section_cta
+  - bg: gray
     featureslist:
       - actions:
           - label: Learn More
@@ -59,17 +70,6 @@ sections:
     subtitle: Что говорят клиенты
     title: Testimonials
     type: section_reviews
-  - actions:
-      - label: Get Started
-        url: /signup
-    section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
-    type: section_cta
-  - bg: gray
-    section_id: recent-posts
-    title: Новые машины
-    type: section_posts
 menus:
   main:
     identifier: Home
