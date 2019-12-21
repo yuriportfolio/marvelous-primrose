@@ -3,10 +3,10 @@ title: Автопарк
 menus:
   main:
     identifier: cars
-    title: cars
+    title: Автопарк
     weight: 1
   secondary:
-    identifier: blog
+    identifier: cars
     title: Автопарк
     weight: 2
 template: blog
