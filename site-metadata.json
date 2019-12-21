@@ -2,7 +2,7 @@
   "title": "FRENT",
   "palette": "green",
   "header": {
-    "title": "Azimuth",
+    "title": "FRENT",
     "logo_img": "/images/logo1.png",
     "has_nav": true,
     "menu": {
@@ -27,7 +27,13 @@
     "logo_img": "/images/logo1.png",
     "has_social": true,
     "content": "&copy; Frent. All rights reserved.",
-    "links": [],
+    "links": [
+      {
+        "text": "Эконом",
+        "url": "/categories/econom",
+        "new_window": true
+      }
+    ],
     "nav_title": "Company",
     "has_nav": true
   }
