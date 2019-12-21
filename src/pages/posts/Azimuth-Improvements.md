@@ -8,6 +8,7 @@ excerpt: >-
   sapien blandit ac amet faucibus aliquet placerat commodo.
 menus:
   secondary:
+    identifier: econom
     title: econom
 template: post
 ---
