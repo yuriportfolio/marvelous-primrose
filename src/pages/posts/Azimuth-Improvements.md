@@ -1,13 +1,14 @@
 ---
-title: Release Notes - Azimuth Improvements and New Integrations
-subtitle: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. 
-date: '2017-03-26'
+title: econom
+subtitle: ''
+date: 2019-12-16T22:00:00.000Z
 thumb_img_path: images/1_thumb.jpg
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
+menus:
+  secondary:
+    title: econom
 template: post
 ---
 
